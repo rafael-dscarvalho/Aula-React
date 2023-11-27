@@ -3,7 +3,7 @@ Repositório com as atividades da aula de React do curso Entra21
 
 <div align="center">
   <a href="https://blusoft.org.br/home/entra-21/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="200px" height="200px" alt="React Logo">
   </a>
   <h1>Entra21 | React Florianópolis | Edição 2023 </h1>
 </div>
