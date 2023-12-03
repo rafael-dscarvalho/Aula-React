@@ -1,0 +1,70 @@
+import { createGlobalStyle } from 'styled-components'
+
+export default createGlobalStyle`
+
+html, body{
+    margin: 0;
+    height: 100vh; 
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+main{
+    height: 75vh;
+}
+
+footer{
+    height: 25vh;
+    background-image: url("./imgs/wave.png");
+    background-size: 100% 60%;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    padding: 0 35%;
+    margin-bottom: 30px;
+}
+
+.main-container{
+    height: 100vh;
+}
+
+main > div{
+    padding: 5% 20%;
+}
+
+p{
+    margin: 16px;
+}
+
+.main-middle-p{
+    margin: 25px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+button:hover{
+    background-color: #444444;
+    transform: scale(1.03);
+}
+
+.contato-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.destinos-container{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    height: 100vh;
+}
+
+`
