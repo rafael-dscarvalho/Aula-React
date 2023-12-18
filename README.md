@@ -15,3 +15,5 @@ Repositório com as atividades da aula de React do curso Entra21
 - [Atividade 2](https://github.com/rafael-dscarvalho/Aula-React/tree/master/Aula%2002-%20Components/atividade-aula02-react)
 - [Atividade 3](https://github.com/rafael-dscarvalho/Aula-React/tree/master/Aula%2003%20-%20Styled%20Components/atividade-aula03-react)
 - [Atividade 4](https://github.com/rafael-dscarvalho/Aula-React/tree/master/Aula%2004%20-%20Global%20Styles%20%2B%20Router%20DOM/atividade-aula04-react)
+- [Atividade 5](https://github.com/rafael-dscarvalho/Aula-React/tree/master/Aula%2005%20-%20Trabalho%20em%20equipe%20(UseState)/atividade-aula05-react)
+- [Atividade 6](https://github.com/rafael-dscarvalho/Aula-React/tree/master/Aula%2006%20-%20UseState%20%2B%20Listas%20e%20Chaves/atividade-aula06-react)

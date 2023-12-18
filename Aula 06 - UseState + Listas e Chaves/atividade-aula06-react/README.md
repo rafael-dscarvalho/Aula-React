@@ -1,7 +1,7 @@
-# REACT - Atividade 3
+# REACT - Atividade 6
 
-Aula de React - Introdução
+Aula de React - UseState + Listas e Chaves
 
-<img src="https://i.imgur.com/VWZOL33.png">
-<img src="https://i.imgur.com/7CmX5S2.png">
-<img src="https://i.imgur.com/vG8Z0j7.png">
+<img src="https://i.imgur.com/XRPYP4h.png">
+<img src="https://i.imgur.com/ZOhSzZR.png">
+
