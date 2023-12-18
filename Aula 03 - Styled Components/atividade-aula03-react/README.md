@@ -1,6 +1,6 @@
 # REACT - Atividade 3
 
-Aula de React - Introdução
+Aula de React - Styled Components
 
 <img src="https://i.imgur.com/VWZOL33.png">
 <img src="https://i.imgur.com/7CmX5S2.png">
